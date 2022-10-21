@@ -1,0 +1,1302 @@
+TRAIN
+Epoch 1/100:
+Batch: 0/199, Loss: 111.5083, NLL-Loss: 111.5083, KL-Loss: 0.6600, KL-Weight: 0.0000
+Batch: 100/199, Loss: 53.3380, NLL-Loss: 53.3019, KL-Loss: 733.9796, KL-Weight: 0.0000
+Batch: 199/199, Loss: 50.5104, NLL-Loss: 50.4624, KL-Loss: 709.8567, KL-Weight: 0.0001
+Mean Loss: 57.8184
+VALID
+Epoch 1/100:
+Batch: 0/15, Loss: 57.9261, NLL-Loss: 57.8761, KL-Loss: 737.7203, KL-Weight: 0.0001
+Batch: 15/15, Loss: 47.1954, NLL-Loss: 47.1454, KL-Loss: 737.7206, KL-Weight: 0.0001
+Mean Loss: 57.8893
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 2/100:
+Batch: 0/199, Loss: 53.3007, NLL-Loss: 53.2507, KL-Loss: 737.7205, KL-Weight: 0.0001
+Batch: 100/199, Loss: 45.5770, NLL-Loss: 45.5177, KL-Loss: 635.3990, KL-Weight: 0.0001
+Batch: 199/199, Loss: 44.0512, NLL-Loss: 43.9739, KL-Loss: 604.1179, KL-Weight: 0.0001
+Mean Loss: 46.4771
+VALID
+Epoch 2/100:
+Batch: 0/15, Loss: 47.7803, NLL-Loss: 47.7032, KL-Loss: 600.6968, KL-Weight: 0.0001
+Batch: 15/15, Loss: 39.5693, NLL-Loss: 39.4922, KL-Loss: 600.6968, KL-Weight: 0.0001
+Mean Loss: 47.8592
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 3/100:
+Batch: 0/199, Loss: 43.5511, NLL-Loss: 43.4739, KL-Loss: 600.6968, KL-Weight: 0.0001
+Batch: 100/199, Loss: 39.2876, NLL-Loss: 39.2043, KL-Loss: 471.1894, KL-Weight: 0.0002
+Batch: 199/199, Loss: 41.1403, NLL-Loss: 41.0277, KL-Loss: 463.7797, KL-Weight: 0.0002
+Mean Loss: 39.9887
+VALID
+Epoch 3/100:
+Batch: 0/15, Loss: 49.9506, NLL-Loss: 49.8567, KL-Loss: 385.8188, KL-Weight: 0.0002
+Batch: 15/15, Loss: 41.8026, NLL-Loss: 41.7086, KL-Loss: 385.8189, KL-Weight: 0.0002
+Mean Loss: 50.1036
+
+TRAIN
+Epoch 4/100:
+Batch: 0/199, Loss: 45.2724, NLL-Loss: 45.1784, KL-Loss: 385.8188, KL-Weight: 0.0002
+Batch: 100/199, Loss: 34.6672, NLL-Loss: 34.5406, KL-Loss: 377.6246, KL-Weight: 0.0003
+Batch: 199/199, Loss: 34.7320, NLL-Loss: 34.5691, KL-Loss: 354.0232, KL-Weight: 0.0005
+Mean Loss: 35.8205
+VALID
+Epoch 4/100:
+Batch: 0/15, Loss: 38.5596, NLL-Loss: 38.4028, KL-Loss: 339.4843, KL-Weight: 0.0005
+Batch: 15/15, Loss: 31.9097, NLL-Loss: 31.7530, KL-Loss: 339.4844, KL-Weight: 0.0005
+Mean Loss: 38.7570
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 5/100:
+Batch: 0/199, Loss: 34.2434, NLL-Loss: 34.0867, KL-Loss: 339.4844, KL-Weight: 0.0005
+Batch: 100/199, Loss: 31.6786, NLL-Loss: 31.4992, KL-Loss: 282.1232, KL-Weight: 0.0006
+Batch: 199/199, Loss: 31.1802, NLL-Loss: 30.9547, KL-Loss: 258.4557, KL-Weight: 0.0009
+Mean Loss: 31.8067
+VALID
+Epoch 5/100:
+Batch: 0/15, Loss: 39.8996, NLL-Loss: 39.6382, KL-Loss: 298.6070, KL-Weight: 0.0009
+Batch: 15/15, Loss: 34.0836, NLL-Loss: 33.8222, KL-Loss: 298.6070, KL-Weight: 0.0009
+Mean Loss: 40.1245
+
+TRAIN
+Epoch 6/100:
+Batch: 0/199, Loss: 37.3214, NLL-Loss: 37.0600, KL-Loss: 298.6070, KL-Weight: 0.0009
+Batch: 100/199, Loss: 28.7461, NLL-Loss: 28.4790, KL-Loss: 221.6359, KL-Weight: 0.0012
+Batch: 199/199, Loss: 27.2185, NLL-Loss: 26.8945, KL-Loss: 195.9240, KL-Weight: 0.0017
+Mean Loss: 29.0351
+VALID
+Epoch 6/100:
+Batch: 0/15, Loss: 31.0510, NLL-Loss: 30.7247, KL-Loss: 196.7526, KL-Weight: 0.0017
+Batch: 15/15, Loss: 26.0350, NLL-Loss: 25.7087, KL-Loss: 196.7526, KL-Weight: 0.0017
+Mean Loss: 31.3513
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 7/100:
+Batch: 0/199, Loss: 27.0758, NLL-Loss: 26.7494, KL-Loss: 196.7526, KL-Weight: 0.0017
+Batch: 100/199, Loss: 26.0526, NLL-Loss: 25.6928, KL-Loss: 157.6020, KL-Weight: 0.0023
+Batch: 199/199, Loss: 25.2780, NLL-Loss: 24.8368, KL-Loss: 140.9266, KL-Weight: 0.0031
+Mean Loss: 26.2278
+VALID
+Epoch 7/100:
+Batch: 0/15, Loss: 28.9980, NLL-Loss: 28.5741, KL-Loss: 134.9462, KL-Weight: 0.0031
+Batch: 15/15, Loss: 24.4811, NLL-Loss: 24.0572, KL-Loss: 134.9462, KL-Weight: 0.0031
+Mean Loss: 29.3706
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 8/100:
+Batch: 0/199, Loss: 24.4261, NLL-Loss: 24.0022, KL-Loss: 134.9462, KL-Weight: 0.0031
+Batch: 100/199, Loss: 23.5801, NLL-Loss: 23.1248, KL-Loss: 105.3743, KL-Weight: 0.0043
+Batch: 199/199, Loss: 24.2169, NLL-Loss: 23.5817, KL-Loss: 107.2604, KL-Weight: 0.0059
+Mean Loss: 23.9163
+VALID
+Epoch 8/100:
+Batch: 0/15, Loss: 31.7711, NLL-Loss: 31.0299, KL-Loss: 124.7661, KL-Weight: 0.0059
+Batch: 15/15, Loss: 26.6758, NLL-Loss: 25.9346, KL-Loss: 124.7661, KL-Weight: 0.0059
+Mean Loss: 32.0833
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 9/100:
+Batch: 0/199, Loss: 28.7117, NLL-Loss: 27.9705, KL-Loss: 124.7661, KL-Weight: 0.0059
+Batch: 100/199, Loss: 21.8655, NLL-Loss: 21.3407, KL-Loss: 64.2854, KL-Weight: 0.0082
+Batch: 199/199, Loss: 20.6276, NLL-Loss: 19.9978, KL-Loss: 56.3705, KL-Weight: 0.0112
+Mean Loss: 22.2464
+VALID
+Epoch 9/100:
+Batch: 0/15, Loss: 24.2237, NLL-Loss: 23.5929, KL-Loss: 56.2969, KL-Weight: 0.0112
+Batch: 15/15, Loss: 20.8798, NLL-Loss: 20.2489, KL-Loss: 56.2969, KL-Weight: 0.0112
+Mean Loss: 24.6853
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 10/100:
+Batch: 0/199, Loss: 21.0682, NLL-Loss: 20.4373, KL-Loss: 56.2969, KL-Weight: 0.0112
+Batch: 100/199, Loss: 19.7660, NLL-Loss: 19.1979, KL-Loss: 36.9711, KL-Weight: 0.0154
+Batch: 199/199, Loss: 20.0235, NLL-Loss: 19.4318, KL-Loss: 28.2100, KL-Weight: 0.0210
+Mean Loss: 20.1386
+VALID
+Epoch 10/100:
+Batch: 0/15, Loss: 22.6261, NLL-Loss: 22.0988, KL-Loss: 25.0566, KL-Weight: 0.0210
+Batch: 15/15, Loss: 19.6605, NLL-Loss: 19.1333, KL-Loss: 25.0568, KL-Weight: 0.0210
+Mean Loss: 23.1098
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 11/100:
+Batch: 0/199, Loss: 19.5516, NLL-Loss: 19.0244, KL-Loss: 25.0556, KL-Weight: 0.0210
+Batch: 100/199, Loss: 18.3342, NLL-Loss: 17.8263, KL-Loss: 17.6666, KL-Weight: 0.0287
+Batch: 199/199, Loss: 17.4165, NLL-Loss: 16.8720, KL-Loss: 13.9458, KL-Weight: 0.0390
+Mean Loss: 18.5338
+VALID
+Epoch 11/100:
+Batch: 0/15, Loss: 20.8398, NLL-Loss: 20.2856, KL-Loss: 14.1505, KL-Weight: 0.0392
+Batch: 15/15, Loss: 18.4234, NLL-Loss: 17.9104, KL-Loss: 13.0978, KL-Weight: 0.0392
+Mean Loss: 21.2790
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 12/100:
+Batch: 0/199, Loss: 17.7925, NLL-Loss: 17.2556, KL-Loss: 13.7072, KL-Weight: 0.0392
+Batch: 100/199, Loss: 17.0701, NLL-Loss: 16.6244, KL-Loss: 8.3869, KL-Weight: 0.0532
+Batch: 199/199, Loss: 16.4591, NLL-Loss: 15.9509, KL-Loss: 7.1036, KL-Weight: 0.0715
+Mean Loss: 16.8238
+VALID
+Epoch 12/100:
+Batch: 0/15, Loss: 19.3206, NLL-Loss: 18.7795, KL-Loss: 7.5398, KL-Weight: 0.0718
+Batch: 15/15, Loss: 17.0538, NLL-Loss: 16.5581, KL-Loss: 6.9085, KL-Weight: 0.0718
+Mean Loss: 19.7822
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 13/100:
+Batch: 0/199, Loss: 16.1979, NLL-Loss: 15.6802, KL-Loss: 7.2150, KL-Weight: 0.0718
+Batch: 100/199, Loss: 15.2879, NLL-Loss: 14.8611, KL-Loss: 4.4350, KL-Weight: 0.0962
+Batch: 199/199, Loss: 15.2002, NLL-Loss: 14.6745, KL-Loss: 4.1222, KL-Weight: 0.1275
+Mean Loss: 15.4758
+VALID
+Epoch 13/100:
+Batch: 0/15, Loss: 18.0258, NLL-Loss: 17.6878, KL-Loss: 2.6433, KL-Weight: 0.1279
+Batch: 15/15, Loss: 16.0708, NLL-Loss: 15.7686, KL-Loss: 2.3638, KL-Weight: 0.1279
+Mean Loss: 18.4140
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 14/100:
+Batch: 0/199, Loss: 14.6876, NLL-Loss: 14.3626, KL-Loss: 2.5414, KL-Weight: 0.1279
+Batch: 100/199, Loss: 13.8566, NLL-Loss: 13.5888, KL-Loss: 1.5943, KL-Weight: 0.1680
+Batch: 199/199, Loss: 13.9750, NLL-Loss: 13.7015, KL-Loss: 1.2603, KL-Weight: 0.2170
+Mean Loss: 13.9425
+VALID
+Epoch 14/100:
+Batch: 0/15, Loss: 16.5426, NLL-Loss: 16.2874, KL-Loss: 1.1730, KL-Weight: 0.2176
+Batch: 15/15, Loss: 14.9501, NLL-Loss: 14.7377, KL-Loss: 0.9762, KL-Weight: 0.2176
+Mean Loss: 17.1010
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 15/100:
+Batch: 0/199, Loss: 13.6258, NLL-Loss: 13.3856, KL-Loss: 1.1041, KL-Weight: 0.2176
+Batch: 100/199, Loss: 12.8227, NLL-Loss: 12.6264, KL-Loss: 0.7092, KL-Weight: 0.2769
+Batch: 199/199, Loss: 12.6427, NLL-Loss: 12.4193, KL-Loss: 0.6485, KL-Weight: 0.3445
+Mean Loss: 12.7665
+VALID
+Epoch 15/100:
+Batch: 0/15, Loss: 15.2182, NLL-Loss: 14.9547, KL-Loss: 0.7632, KL-Weight: 0.3452
+Batch: 15/15, Loss: 13.6925, NLL-Loss: 13.4664, KL-Loss: 0.6548, KL-Weight: 0.3452
+Mean Loss: 15.6366
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 16/100:
+Batch: 0/199, Loss: 12.0933, NLL-Loss: 11.8341, KL-Loss: 0.7506, KL-Weight: 0.3452
+Batch: 100/199, Loss: 11.5738, NLL-Loss: 11.4856, KL-Loss: 0.2098, KL-Weight: 0.4207
+Batch: 199/199, Loss: 11.4751, NLL-Loss: 11.4075, KL-Loss: 0.1355, KL-Weight: 0.4992
+Mean Loss: 11.4191
+VALID
+Epoch 16/100:
+Batch: 0/15, Loss: 14.1496, NLL-Loss: 14.0220, KL-Loss: 0.2551, KL-Weight: 0.5000
+Batch: 15/15, Loss: 12.8280, NLL-Loss: 12.7167, KL-Loss: 0.2226, KL-Weight: 0.5000
+Mean Loss: 14.6125
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 17/100:
+Batch: 0/199, Loss: 10.8609, NLL-Loss: 10.7390, KL-Loss: 0.2437, KL-Weight: 0.5000
+Batch: 100/199, Loss: 10.2110, NLL-Loss: 10.1568, KL-Loss: 0.0935, KL-Weight: 0.5793
+Batch: 199/199, Loss: 10.3579, NLL-Loss: 10.3023, KL-Loss: 0.0850, KL-Weight: 0.6540
+Mean Loss: 10.5264
+VALID
+Epoch 17/100:
+Batch: 0/15, Loss: 13.0185, NLL-Loss: 12.9395, KL-Loss: 0.1207, KL-Weight: 0.6548
+Batch: 15/15, Loss: 12.0737, NLL-Loss: 11.9990, KL-Loss: 0.1141, KL-Weight: 0.6548
+Mean Loss: 13.6798
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 18/100:
+Batch: 0/199, Loss: 9.9229, NLL-Loss: 9.8425, KL-Loss: 0.1227, KL-Weight: 0.6548
+Batch: 100/199, Loss: 9.4658, NLL-Loss: 9.4432, KL-Loss: 0.0313, KL-Weight: 0.7231
+Batch: 199/199, Loss: 9.1606, NLL-Loss: 9.1306, KL-Loss: 0.0384, KL-Weight: 0.7819
+Mean Loss: 9.4205
+VALID
+Epoch 18/100:
+Batch: 0/15, Loss: 12.0966, NLL-Loss: 12.0244, KL-Loss: 0.0923, KL-Weight: 0.7824
+Batch: 15/15, Loss: 11.0668, NLL-Loss: 10.9985, KL-Loss: 0.0873, KL-Weight: 0.7824
+Mean Loss: 12.7478
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 19/100:
+Batch: 0/199, Loss: 9.2245, NLL-Loss: 9.1526, KL-Loss: 0.0919, KL-Weight: 0.7824
+Batch: 100/199, Loss: 8.7646, NLL-Loss: 8.7539, KL-Loss: 0.0128, KL-Weight: 0.8320
+Batch: 199/199, Loss: 8.4045, NLL-Loss: 8.3639, KL-Loss: 0.0466, KL-Weight: 0.8718
+Mean Loss: 8.7885
+VALID
+Epoch 19/100:
+Batch: 0/15, Loss: 11.0942, NLL-Loss: 11.0573, KL-Loss: 0.0424, KL-Weight: 0.8721
+Batch: 15/15, Loss: 10.5553, NLL-Loss: 10.5200, KL-Loss: 0.0405, KL-Weight: 0.8721
+Mean Loss: 11.7337
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 20/100:
+Batch: 0/199, Loss: 8.1990, NLL-Loss: 8.1612, KL-Loss: 0.0434, KL-Weight: 0.8721
+Batch: 100/199, Loss: 7.6974, NLL-Loss: 7.6780, KL-Loss: 0.0215, KL-Weight: 0.9038
+Batch: 199/199, Loss: 7.4675, NLL-Loss: 7.4487, KL-Loss: 0.0203, KL-Weight: 0.9280
+Mean Loss: 7.8812
+VALID
+Epoch 20/100:
+Batch: 0/15, Loss: 10.5652, NLL-Loss: 10.5415, KL-Loss: 0.0255, KL-Weight: 0.9282
+Batch: 15/15, Loss: 10.0008, NLL-Loss: 9.9777, KL-Loss: 0.0249, KL-Weight: 0.9282
+Mean Loss: 11.1493
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 21/100:
+Batch: 0/199, Loss: 7.6718, NLL-Loss: 7.6483, KL-Loss: 0.0253, KL-Weight: 0.9282
+Batch: 100/199, Loss: 7.5953, NLL-Loss: 7.5911, KL-Loss: 0.0044, KL-Weight: 0.9468
+Batch: 199/199, Loss: 7.7406, NLL-Loss: 7.7157, KL-Loss: 0.0259, KL-Weight: 0.9607
+Mean Loss: 7.4698
+VALID
+Epoch 21/100:
+Batch: 0/15, Loss: 9.9440, NLL-Loss: 9.9160, KL-Loss: 0.0291, KL-Weight: 0.9608
+Batch: 15/15, Loss: 9.1751, NLL-Loss: 9.1477, KL-Loss: 0.0285, KL-Weight: 0.9608
+Mean Loss: 10.4672
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 22/100:
+Batch: 0/199, Loss: 6.6967, NLL-Loss: 6.6687, KL-Loss: 0.0291, KL-Weight: 0.9608
+Batch: 100/199, Loss: 6.5007, NLL-Loss: 6.4963, KL-Loss: 0.0045, KL-Weight: 0.9713
+Batch: 199/199, Loss: 6.9153, NLL-Loss: 6.8994, KL-Loss: 0.0162, KL-Weight: 0.9789
+Mean Loss: 6.7368
+VALID
+Epoch 22/100:
+Batch: 0/15, Loss: 9.4700, NLL-Loss: 9.4525, KL-Loss: 0.0179, KL-Weight: 0.9790
+Batch: 15/15, Loss: 8.8304, NLL-Loss: 8.8132, KL-Loss: 0.0176, KL-Weight: 0.9790
+Mean Loss: 10.0775
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 23/100:
+Batch: 0/199, Loss: 6.5065, NLL-Loss: 6.4886, KL-Loss: 0.0183, KL-Weight: 0.9790
+Batch: 100/199, Loss: 6.3354, NLL-Loss: 6.3318, KL-Loss: 0.0037, KL-Weight: 0.9846
+Batch: 199/199, Loss: 6.3365, NLL-Loss: 6.3225, KL-Loss: 0.0141, KL-Weight: 0.9888
+Mean Loss: 6.4631
+VALID
+Epoch 23/100:
+Batch: 0/15, Loss: 9.2774, NLL-Loss: 9.2675, KL-Loss: 0.0100, KL-Weight: 0.9888
+Batch: 15/15, Loss: 8.3885, NLL-Loss: 8.3786, KL-Loss: 0.0101, KL-Weight: 0.9888
+Mean Loss: 9.6541
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 24/100:
+Batch: 0/199, Loss: 6.1960, NLL-Loss: 6.1862, KL-Loss: 0.0100, KL-Weight: 0.9888
+Batch: 100/199, Loss: 5.9141, NLL-Loss: 5.9111, KL-Loss: 0.0031, KL-Weight: 0.9918
+Batch: 199/199, Loss: 5.4355, NLL-Loss: 5.4094, KL-Loss: 0.0263, KL-Weight: 0.9940
+Mean Loss: 5.8381
+VALID
+Epoch 24/100:
+Batch: 0/15, Loss: 8.8433, NLL-Loss: 8.8294, KL-Loss: 0.0140, KL-Weight: 0.9941
+Batch: 15/15, Loss: 8.1791, NLL-Loss: 8.1650, KL-Loss: 0.0143, KL-Weight: 0.9941
+Mean Loss: 9.3097
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 25/100:
+Batch: 0/199, Loss: 6.0687, NLL-Loss: 6.0549, KL-Loss: 0.0139, KL-Weight: 0.9941
+Batch: 100/199, Loss: 5.5319, NLL-Loss: 5.5296, KL-Loss: 0.0023, KL-Weight: 0.9957
+Batch: 199/199, Loss: 5.6394, NLL-Loss: 5.6222, KL-Loss: 0.0173, KL-Weight: 0.9968
+Mean Loss: 5.6800
+VALID
+Epoch 25/100:
+Batch: 0/15, Loss: 8.3308, NLL-Loss: 8.3078, KL-Loss: 0.0231, KL-Weight: 0.9969
+Batch: 15/15, Loss: 7.8315, NLL-Loss: 7.8089, KL-Loss: 0.0227, KL-Weight: 0.9969
+Mean Loss: 8.7952
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 26/100:
+Batch: 0/199, Loss: 5.1212, NLL-Loss: 5.0983, KL-Loss: 0.0230, KL-Weight: 0.9969
+Batch: 100/199, Loss: 4.9985, NLL-Loss: 4.9975, KL-Loss: 0.0010, KL-Weight: 0.9977
+Batch: 199/199, Loss: 4.9692, NLL-Loss: 4.9616, KL-Loss: 0.0076, KL-Weight: 0.9983
+Mean Loss: 5.1354
+VALID
+Epoch 26/100:
+Batch: 0/15, Loss: 8.1105, NLL-Loss: 8.1009, KL-Loss: 0.0096, KL-Weight: 0.9983
+Batch: 15/15, Loss: 7.7061, NLL-Loss: 7.6965, KL-Loss: 0.0096, KL-Weight: 0.9983
+Mean Loss: 8.5366
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 27/100:
+Batch: 0/199, Loss: 5.5378, NLL-Loss: 5.5282, KL-Loss: 0.0096, KL-Weight: 0.9983
+Batch: 100/199, Loss: 4.8272, NLL-Loss: 4.8255, KL-Loss: 0.0017, KL-Weight: 0.9988
+Batch: 199/199, Loss: 5.2732, NLL-Loss: 5.2576, KL-Loss: 0.0156, KL-Weight: 0.9991
+Mean Loss: 5.0670
+VALID
+Epoch 27/100:
+Batch: 0/15, Loss: 7.7797, NLL-Loss: 7.7566, KL-Loss: 0.0230, KL-Weight: 0.9991
+Batch: 15/15, Loss: 7.3397, NLL-Loss: 7.3169, KL-Loss: 0.0228, KL-Weight: 0.9991
+Mean Loss: 8.2283
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 28/100:
+Batch: 0/199, Loss: 4.7601, NLL-Loss: 4.7368, KL-Loss: 0.0233, KL-Weight: 0.9991
+Batch: 100/199, Loss: 4.6893, NLL-Loss: 4.6875, KL-Loss: 0.0018, KL-Weight: 0.9994
+Batch: 199/199, Loss: 4.9145, NLL-Loss: 4.8985, KL-Loss: 0.0159, KL-Weight: 0.9995
+Mean Loss: 4.5912
+VALID
+Epoch 28/100:
+Batch: 0/15, Loss: 7.5443, NLL-Loss: 7.5278, KL-Loss: 0.0165, KL-Weight: 0.9995
+Batch: 15/15, Loss: 7.1554, NLL-Loss: 7.1391, KL-Loss: 0.0164, KL-Weight: 0.9995
+Mean Loss: 7.9907
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 29/100:
+Batch: 0/199, Loss: 4.7296, NLL-Loss: 4.7132, KL-Loss: 0.0164, KL-Weight: 0.9995
+Batch: 100/199, Loss: 4.5849, NLL-Loss: 4.5838, KL-Loss: 0.0011, KL-Weight: 0.9997
+Batch: 199/199, Loss: 4.5054, NLL-Loss: 4.4968, KL-Loss: 0.0086, KL-Weight: 0.9998
+Mean Loss: 4.5768
+VALID
+Epoch 29/100:
+Batch: 0/15, Loss: 7.2718, NLL-Loss: 7.2645, KL-Loss: 0.0074, KL-Weight: 0.9998
+Batch: 15/15, Loss: 6.6784, NLL-Loss: 6.6710, KL-Loss: 0.0075, KL-Weight: 0.9998
+Mean Loss: 7.7324
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 30/100:
+Batch: 0/199, Loss: 4.3972, NLL-Loss: 4.3898, KL-Loss: 0.0074, KL-Weight: 0.9998
+Batch: 100/199, Loss: 4.0858, NLL-Loss: 4.0851, KL-Loss: 0.0008, KL-Weight: 0.9998
+Batch: 199/199, Loss: 4.5200, NLL-Loss: 4.5123, KL-Loss: 0.0077, KL-Weight: 0.9999
+Mean Loss: 4.1609
+VALID
+Epoch 30/100:
+Batch: 0/15, Loss: 7.1174, NLL-Loss: 7.1098, KL-Loss: 0.0077, KL-Weight: 0.9999
+Batch: 15/15, Loss: 6.5004, NLL-Loss: 6.4927, KL-Loss: 0.0077, KL-Weight: 0.9999
+Mean Loss: 7.5031
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 31/100:
+Batch: 0/199, Loss: 4.2073, NLL-Loss: 4.1996, KL-Loss: 0.0076, KL-Weight: 0.9999
+Batch: 100/199, Loss: 4.0768, NLL-Loss: 4.0762, KL-Loss: 0.0006, KL-Weight: 0.9999
+Batch: 199/199, Loss: 3.9373, NLL-Loss: 3.9313, KL-Loss: 0.0061, KL-Weight: 0.9999
+Mean Loss: 4.2075
+VALID
+Epoch 31/100:
+Batch: 0/15, Loss: 6.8126, NLL-Loss: 6.8016, KL-Loss: 0.0110, KL-Weight: 0.9999
+Batch: 15/15, Loss: 6.4715, NLL-Loss: 6.4605, KL-Loss: 0.0110, KL-Weight: 0.9999
+Mean Loss: 7.3163
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 32/100:
+Batch: 0/199, Loss: 3.6473, NLL-Loss: 3.6364, KL-Loss: 0.0109, KL-Weight: 0.9999
+Batch: 100/199, Loss: 3.7615, NLL-Loss: 3.7610, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.8433, NLL-Loss: 3.8354, KL-Loss: 0.0079, KL-Weight: 1.0000
+Mean Loss: 3.8258
+VALID
+Epoch 32/100:
+Batch: 0/15, Loss: 6.6299, NLL-Loss: 6.6210, KL-Loss: 0.0088, KL-Weight: 1.0000
+Batch: 15/15, Loss: 6.3029, NLL-Loss: 6.2940, KL-Loss: 0.0089, KL-Weight: 1.0000
+Mean Loss: 7.1052
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 33/100:
+Batch: 0/199, Loss: 4.0095, NLL-Loss: 4.0006, KL-Loss: 0.0089, KL-Weight: 1.0000
+Batch: 100/199, Loss: 3.7403, NLL-Loss: 3.7399, KL-Loss: 0.0004, KL-Weight: 1.0000
+Batch: 199/199, Loss: 4.2043, NLL-Loss: 4.1983, KL-Loss: 0.0060, KL-Weight: 1.0000
+Mean Loss: 3.9005
+VALID
+Epoch 33/100:
+Batch: 0/15, Loss: 6.5940, NLL-Loss: 6.5878, KL-Loss: 0.0062, KL-Weight: 1.0000
+Batch: 15/15, Loss: 6.2370, NLL-Loss: 6.2308, KL-Loss: 0.0062, KL-Weight: 1.0000
+Mean Loss: 7.0710
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 34/100:
+Batch: 0/199, Loss: 3.6709, NLL-Loss: 3.6647, KL-Loss: 0.0061, KL-Weight: 1.0000
+Batch: 100/199, Loss: 3.3477, NLL-Loss: 3.3472, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.6908, NLL-Loss: 3.6837, KL-Loss: 0.0070, KL-Weight: 1.0000
+Mean Loss: 3.5523
+VALID
+Epoch 34/100:
+Batch: 0/15, Loss: 6.3655, NLL-Loss: 6.3592, KL-Loss: 0.0063, KL-Weight: 1.0000
+Batch: 15/15, Loss: 6.0985, NLL-Loss: 6.0922, KL-Loss: 0.0063, KL-Weight: 1.0000
+Mean Loss: 6.8456
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 35/100:
+Batch: 0/199, Loss: 3.7126, NLL-Loss: 3.7063, KL-Loss: 0.0063, KL-Weight: 1.0000
+Batch: 100/199, Loss: 3.4689, NLL-Loss: 3.4686, KL-Loss: 0.0003, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.6988, NLL-Loss: 3.6923, KL-Loss: 0.0065, KL-Weight: 1.0000
+Mean Loss: 3.6700
+VALID
+Epoch 35/100:
+Batch: 0/15, Loss: 6.4231, NLL-Loss: 6.4176, KL-Loss: 0.0056, KL-Weight: 1.0000
+Batch: 15/15, Loss: 6.0011, NLL-Loss: 5.9955, KL-Loss: 0.0056, KL-Weight: 1.0000
+Mean Loss: 6.6962
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 36/100:
+Batch: 0/199, Loss: 3.5591, NLL-Loss: 3.5535, KL-Loss: 0.0056, KL-Weight: 1.0000
+Batch: 100/199, Loss: 3.2450, NLL-Loss: 3.2448, KL-Loss: 0.0002, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.4951, NLL-Loss: 3.4890, KL-Loss: 0.0061, KL-Weight: 1.0000
+Mean Loss: 3.3435
+VALID
+Epoch 36/100:
+Batch: 0/15, Loss: 6.3395, NLL-Loss: 6.3342, KL-Loss: 0.0053, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.8483, NLL-Loss: 5.8429, KL-Loss: 0.0053, KL-Weight: 1.0000
+Mean Loss: 6.5988
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 37/100:
+Batch: 0/199, Loss: 3.6962, NLL-Loss: 3.6908, KL-Loss: 0.0054, KL-Weight: 1.0000
+Batch: 100/199, Loss: 3.3054, NLL-Loss: 3.3051, KL-Loss: 0.0002, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.7461, NLL-Loss: 3.7405, KL-Loss: 0.0056, KL-Weight: 1.0000
+Mean Loss: 3.4772
+VALID
+Epoch 37/100:
+Batch: 0/15, Loss: 6.1950, NLL-Loss: 6.1887, KL-Loss: 0.0063, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.7880, NLL-Loss: 5.7817, KL-Loss: 0.0063, KL-Weight: 1.0000
+Mean Loss: 6.5639
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 38/100:
+Batch: 0/199, Loss: 3.2691, NLL-Loss: 3.2627, KL-Loss: 0.0064, KL-Weight: 1.0000
+Batch: 100/199, Loss: 3.1686, NLL-Loss: 3.1683, KL-Loss: 0.0003, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.2582, NLL-Loss: 3.2540, KL-Loss: 0.0042, KL-Weight: 1.0000
+Mean Loss: 3.1690
+VALID
+Epoch 38/100:
+Batch: 0/15, Loss: 6.2671, NLL-Loss: 6.2620, KL-Loss: 0.0051, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.6916, NLL-Loss: 5.6865, KL-Loss: 0.0051, KL-Weight: 1.0000
+Mean Loss: 6.5958
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 39/100:
+Batch: 0/199, Loss: 3.4581, NLL-Loss: 3.4529, KL-Loss: 0.0051, KL-Weight: 1.0000
+Batch: 100/199, Loss: 3.3180, NLL-Loss: 3.3179, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.1981, NLL-Loss: 3.1932, KL-Loss: 0.0049, KL-Weight: 1.0000
+Mean Loss: 3.3521
+VALID
+Epoch 39/100:
+Batch: 0/15, Loss: 6.0692, NLL-Loss: 6.0634, KL-Loss: 0.0058, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.6157, NLL-Loss: 5.6099, KL-Loss: 0.0058, KL-Weight: 1.0000
+Mean Loss: 6.3797
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 40/100:
+Batch: 0/199, Loss: 3.0357, NLL-Loss: 3.0298, KL-Loss: 0.0059, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.9686, NLL-Loss: 2.9685, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.2485, NLL-Loss: 3.2444, KL-Loss: 0.0041, KL-Weight: 1.0000
+Mean Loss: 3.0537
+VALID
+Epoch 40/100:
+Batch: 0/15, Loss: 5.9612, NLL-Loss: 5.9570, KL-Loss: 0.0042, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.5364, NLL-Loss: 5.5322, KL-Loss: 0.0042, KL-Weight: 1.0000
+Mean Loss: 6.2866
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 41/100:
+Batch: 0/199, Loss: 3.4058, NLL-Loss: 3.4016, KL-Loss: 0.0042, KL-Weight: 1.0000
+Batch: 100/199, Loss: 3.0990, NLL-Loss: 3.0989, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.3029, NLL-Loss: 3.2997, KL-Loss: 0.0032, KL-Weight: 1.0000
+Mean Loss: 3.2143
+VALID
+Epoch 41/100:
+Batch: 0/15, Loss: 5.6299, NLL-Loss: 5.6268, KL-Loss: 0.0031, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.4837, NLL-Loss: 5.4805, KL-Loss: 0.0031, KL-Weight: 1.0000
+Mean Loss: 6.2239
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 42/100:
+Batch: 0/199, Loss: 2.9297, NLL-Loss: 2.9266, KL-Loss: 0.0031, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.7509, NLL-Loss: 2.7508, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.8185, NLL-Loss: 2.8153, KL-Loss: 0.0031, KL-Weight: 1.0000
+Mean Loss: 2.9292
+VALID
+Epoch 42/100:
+Batch: 0/15, Loss: 5.6163, NLL-Loss: 5.6131, KL-Loss: 0.0031, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.4090, NLL-Loss: 5.4058, KL-Loss: 0.0031, KL-Weight: 1.0000
+Mean Loss: 6.1562
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 43/100:
+Batch: 0/199, Loss: 3.2733, NLL-Loss: 3.2702, KL-Loss: 0.0031, KL-Weight: 1.0000
+Batch: 100/199, Loss: 3.0720, NLL-Loss: 3.0719, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.2763, NLL-Loss: 3.2728, KL-Loss: 0.0035, KL-Weight: 1.0000
+Mean Loss: 3.1227
+VALID
+Epoch 43/100:
+Batch: 0/15, Loss: 5.6243, NLL-Loss: 5.6200, KL-Loss: 0.0042, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.3406, NLL-Loss: 5.3363, KL-Loss: 0.0043, KL-Weight: 1.0000
+Mean Loss: 6.0516
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 44/100:
+Batch: 0/199, Loss: 2.8411, NLL-Loss: 2.8369, KL-Loss: 0.0042, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.8741, NLL-Loss: 2.8740, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.1058, NLL-Loss: 3.1034, KL-Loss: 0.0024, KL-Weight: 1.0000
+Mean Loss: 2.8383
+VALID
+Epoch 44/100:
+Batch: 0/15, Loss: 5.6367, NLL-Loss: 5.6320, KL-Loss: 0.0047, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.3409, NLL-Loss: 5.3363, KL-Loss: 0.0046, KL-Weight: 1.0000
+Mean Loss: 6.0330
+Best model saved at: checkpoints/model
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 45/100:
+Batch: 0/199, Loss: 3.0244, NLL-Loss: 3.0197, KL-Loss: 0.0047, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.7721, NLL-Loss: 2.7720, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.1545, NLL-Loss: 3.1517, KL-Loss: 0.0028, KL-Weight: 1.0000
+Mean Loss: 3.0369
+VALID
+Epoch 45/100:
+Batch: 0/15, Loss: 5.5323, NLL-Loss: 5.5292, KL-Loss: 0.0032, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.4352, NLL-Loss: 5.4321, KL-Loss: 0.0032, KL-Weight: 1.0000
+Mean Loss: 5.9490
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 46/100:
+Batch: 0/199, Loss: 2.8796, NLL-Loss: 2.8764, KL-Loss: 0.0032, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.6516, NLL-Loss: 2.6515, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.9774, NLL-Loss: 2.9743, KL-Loss: 0.0030, KL-Weight: 1.0000
+Mean Loss: 2.7605
+VALID
+Epoch 46/100:
+Batch: 0/15, Loss: 5.5869, NLL-Loss: 5.5833, KL-Loss: 0.0036, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.4488, NLL-Loss: 5.4452, KL-Loss: 0.0036, KL-Weight: 1.0000
+Mean Loss: 5.9654
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 47/100:
+Batch: 0/199, Loss: 3.0252, NLL-Loss: 3.0216, KL-Loss: 0.0036, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.8664, NLL-Loss: 2.8663, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.0385, NLL-Loss: 3.0361, KL-Loss: 0.0024, KL-Weight: 1.0000
+Mean Loss: 2.9639
+VALID
+Epoch 47/100:
+Batch: 0/15, Loss: 5.4477, NLL-Loss: 5.4445, KL-Loss: 0.0032, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.2394, NLL-Loss: 5.2362, KL-Loss: 0.0032, KL-Weight: 1.0000
+Mean Loss: 5.8447
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 48/100:
+Batch: 0/199, Loss: 2.8541, NLL-Loss: 2.8509, KL-Loss: 0.0032, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.5790, NLL-Loss: 2.5789, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.0146, NLL-Loss: 3.0114, KL-Loss: 0.0032, KL-Weight: 1.0000
+Mean Loss: 2.6824
+VALID
+Epoch 48/100:
+Batch: 0/15, Loss: 5.4816, NLL-Loss: 5.4795, KL-Loss: 0.0021, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.2213, NLL-Loss: 5.2192, KL-Loss: 0.0021, KL-Weight: 1.0000
+Mean Loss: 5.8851
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 49/100:
+Batch: 0/199, Loss: 2.9256, NLL-Loss: 2.9235, KL-Loss: 0.0021, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.7101, NLL-Loss: 2.7101, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.8290, NLL-Loss: 2.8268, KL-Loss: 0.0022, KL-Weight: 1.0000
+Mean Loss: 2.8989
+VALID
+Epoch 49/100:
+Batch: 0/15, Loss: 5.4854, NLL-Loss: 5.4829, KL-Loss: 0.0025, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.1539, NLL-Loss: 5.1514, KL-Loss: 0.0025, KL-Weight: 1.0000
+Mean Loss: 5.8295
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 50/100:
+Batch: 0/199, Loss: 2.6299, NLL-Loss: 2.6274, KL-Loss: 0.0025, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.5152, NLL-Loss: 2.5152, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.6613, NLL-Loss: 2.6596, KL-Loss: 0.0017, KL-Weight: 1.0000
+Mean Loss: 2.6188
+VALID
+Epoch 50/100:
+Batch: 0/15, Loss: 5.5592, NLL-Loss: 5.5571, KL-Loss: 0.0021, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.2231, NLL-Loss: 5.2210, KL-Loss: 0.0021, KL-Weight: 1.0000
+Mean Loss: 5.8712
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 51/100:
+Batch: 0/199, Loss: 2.9203, NLL-Loss: 2.9182, KL-Loss: 0.0021, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.7628, NLL-Loss: 2.7628, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.0040, NLL-Loss: 3.0013, KL-Loss: 0.0026, KL-Weight: 1.0000
+Mean Loss: 2.8328
+VALID
+Epoch 51/100:
+Batch: 0/15, Loss: 5.4051, NLL-Loss: 5.4026, KL-Loss: 0.0025, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0905, NLL-Loss: 5.0880, KL-Loss: 0.0025, KL-Weight: 1.0000
+Mean Loss: 5.7632
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 52/100:
+Batch: 0/199, Loss: 2.5592, NLL-Loss: 2.5568, KL-Loss: 0.0025, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.6402, NLL-Loss: 2.6401, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.8465, NLL-Loss: 2.8447, KL-Loss: 0.0018, KL-Weight: 1.0000
+Mean Loss: 2.5564
+VALID
+Epoch 52/100:
+Batch: 0/15, Loss: 5.4522, NLL-Loss: 5.4501, KL-Loss: 0.0021, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.1152, NLL-Loss: 5.1131, KL-Loss: 0.0021, KL-Weight: 1.0000
+Mean Loss: 5.7742
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 53/100:
+Batch: 0/199, Loss: 2.9231, NLL-Loss: 2.9210, KL-Loss: 0.0021, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.6561, NLL-Loss: 2.6561, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 3.0703, NLL-Loss: 3.0684, KL-Loss: 0.0019, KL-Weight: 1.0000
+Mean Loss: 2.7965
+VALID
+Epoch 53/100:
+Batch: 0/15, Loss: 5.3070, NLL-Loss: 5.3054, KL-Loss: 0.0016, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9551, NLL-Loss: 4.9535, KL-Loss: 0.0016, KL-Weight: 1.0000
+Mean Loss: 5.7583
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 54/100:
+Batch: 0/199, Loss: 2.5665, NLL-Loss: 2.5649, KL-Loss: 0.0016, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.4308, NLL-Loss: 2.4308, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.5988, NLL-Loss: 2.5969, KL-Loss: 0.0019, KL-Weight: 1.0000
+Mean Loss: 2.5173
+VALID
+Epoch 54/100:
+Batch: 0/15, Loss: 5.2773, NLL-Loss: 5.2739, KL-Loss: 0.0034, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9789, NLL-Loss: 4.9755, KL-Loss: 0.0034, KL-Weight: 1.0000
+Mean Loss: 5.7694
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 55/100:
+Batch: 0/199, Loss: 2.6360, NLL-Loss: 2.6327, KL-Loss: 0.0034, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.6022, NLL-Loss: 2.6021, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.8673, NLL-Loss: 2.8652, KL-Loss: 0.0022, KL-Weight: 1.0000
+Mean Loss: 2.7523
+VALID
+Epoch 55/100:
+Batch: 0/15, Loss: 5.4004, NLL-Loss: 5.3984, KL-Loss: 0.0020, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9055, NLL-Loss: 4.9035, KL-Loss: 0.0020, KL-Weight: 1.0000
+Mean Loss: 5.6967
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 56/100:
+Batch: 0/199, Loss: 2.6272, NLL-Loss: 2.6253, KL-Loss: 0.0020, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.3517, NLL-Loss: 2.3516, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.7060, NLL-Loss: 2.7043, KL-Loss: 0.0017, KL-Weight: 1.0000
+Mean Loss: 2.4739
+VALID
+Epoch 56/100:
+Batch: 0/15, Loss: 5.3976, NLL-Loss: 5.3958, KL-Loss: 0.0018, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9039, NLL-Loss: 4.9021, KL-Loss: 0.0018, KL-Weight: 1.0000
+Mean Loss: 5.7271
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 57/100:
+Batch: 0/199, Loss: 2.7227, NLL-Loss: 2.7208, KL-Loss: 0.0018, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.5091, NLL-Loss: 2.5091, KL-Loss: 0.0001, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.8589, NLL-Loss: 2.8573, KL-Loss: 0.0016, KL-Weight: 1.0000
+Mean Loss: 2.7061
+VALID
+Epoch 57/100:
+Batch: 0/15, Loss: 5.3615, NLL-Loss: 5.3598, KL-Loss: 0.0017, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8777, NLL-Loss: 4.8760, KL-Loss: 0.0017, KL-Weight: 1.0000
+Mean Loss: 5.6919
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 58/100:
+Batch: 0/199, Loss: 2.3577, NLL-Loss: 2.3559, KL-Loss: 0.0017, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.4617, NLL-Loss: 2.4616, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.6979, NLL-Loss: 2.6968, KL-Loss: 0.0011, KL-Weight: 1.0000
+Mean Loss: 2.4243
+VALID
+Epoch 58/100:
+Batch: 0/15, Loss: 5.4054, NLL-Loss: 5.4038, KL-Loss: 0.0016, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9408, NLL-Loss: 4.9392, KL-Loss: 0.0016, KL-Weight: 1.0000
+Mean Loss: 5.7504
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 59/100:
+Batch: 0/199, Loss: 2.6094, NLL-Loss: 2.6079, KL-Loss: 0.0016, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.6510, NLL-Loss: 2.6510, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.7814, NLL-Loss: 2.7799, KL-Loss: 0.0015, KL-Weight: 1.0000
+Mean Loss: 2.6766
+VALID
+Epoch 59/100:
+Batch: 0/15, Loss: 5.1885, NLL-Loss: 5.1867, KL-Loss: 0.0018, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9447, NLL-Loss: 4.9430, KL-Loss: 0.0018, KL-Weight: 1.0000
+Mean Loss: 5.6721
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 60/100:
+Batch: 0/199, Loss: 2.3705, NLL-Loss: 2.3688, KL-Loss: 0.0018, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2653, NLL-Loss: 2.2653, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.4565, NLL-Loss: 2.4551, KL-Loss: 0.0014, KL-Weight: 1.0000
+Mean Loss: 2.3954
+VALID
+Epoch 60/100:
+Batch: 0/15, Loss: 5.2374, NLL-Loss: 5.2358, KL-Loss: 0.0015, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0725, NLL-Loss: 5.0709, KL-Loss: 0.0015, KL-Weight: 1.0000
+Mean Loss: 5.7605
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 61/100:
+Batch: 0/199, Loss: 2.5939, NLL-Loss: 2.5924, KL-Loss: 0.0015, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.5925, NLL-Loss: 2.5924, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.5526, NLL-Loss: 2.5517, KL-Loss: 0.0009, KL-Weight: 1.0000
+Mean Loss: 2.6445
+VALID
+Epoch 61/100:
+Batch: 0/15, Loss: 5.1147, NLL-Loss: 5.1135, KL-Loss: 0.0012, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.1425, NLL-Loss: 5.1413, KL-Loss: 0.0013, KL-Weight: 1.0000
+Mean Loss: 5.6235
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 62/100:
+Batch: 0/199, Loss: 2.4668, NLL-Loss: 2.4656, KL-Loss: 0.0013, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2003, NLL-Loss: 2.2000, KL-Loss: 0.0003, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.2374, NLL-Loss: 2.2363, KL-Loss: 0.0012, KL-Weight: 1.0000
+Mean Loss: 2.3601
+VALID
+Epoch 62/100:
+Batch: 0/15, Loss: 5.1516, NLL-Loss: 5.1504, KL-Loss: 0.0012, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0769, NLL-Loss: 5.0758, KL-Loss: 0.0012, KL-Weight: 1.0000
+Mean Loss: 5.6251
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 63/100:
+Batch: 0/199, Loss: 2.7162, NLL-Loss: 2.7151, KL-Loss: 0.0012, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.5350, NLL-Loss: 2.5348, KL-Loss: 0.0002, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.6697, NLL-Loss: 2.6685, KL-Loss: 0.0012, KL-Weight: 1.0000
+Mean Loss: 2.5994
+VALID
+Epoch 63/100:
+Batch: 0/15, Loss: 5.0559, NLL-Loss: 5.0543, KL-Loss: 0.0016, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8437, NLL-Loss: 4.8421, KL-Loss: 0.0017, KL-Weight: 1.0000
+Mean Loss: 5.5962
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 64/100:
+Batch: 0/199, Loss: 2.2781, NLL-Loss: 2.2764, KL-Loss: 0.0017, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.0911, NLL-Loss: 2.0911, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.3062, NLL-Loss: 2.3050, KL-Loss: 0.0012, KL-Weight: 1.0000
+Mean Loss: 2.3180
+VALID
+Epoch 64/100:
+Batch: 0/15, Loss: 5.1383, NLL-Loss: 5.1371, KL-Loss: 0.0012, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8615, NLL-Loss: 4.8603, KL-Loss: 0.0012, KL-Weight: 1.0000
+Mean Loss: 5.6338
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 65/100:
+Batch: 0/199, Loss: 2.6294, NLL-Loss: 2.6283, KL-Loss: 0.0012, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.6042, NLL-Loss: 2.6042, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.5441, NLL-Loss: 2.5431, KL-Loss: 0.0010, KL-Weight: 1.0000
+Mean Loss: 2.5806
+VALID
+Epoch 65/100:
+Batch: 0/15, Loss: 5.1705, NLL-Loss: 5.1692, KL-Loss: 0.0013, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.7605, NLL-Loss: 4.7592, KL-Loss: 0.0013, KL-Weight: 1.0000
+Mean Loss: 5.6231
+
+TRAIN
+Epoch 66/100:
+Batch: 0/199, Loss: 2.2700, NLL-Loss: 2.2687, KL-Loss: 0.0013, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2340, NLL-Loss: 2.2340, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.4100, NLL-Loss: 2.4092, KL-Loss: 0.0008, KL-Weight: 1.0000
+Mean Loss: 2.2947
+VALID
+Epoch 66/100:
+Batch: 0/15, Loss: 5.1469, NLL-Loss: 5.1456, KL-Loss: 0.0012, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8073, NLL-Loss: 4.8061, KL-Loss: 0.0012, KL-Weight: 1.0000
+Mean Loss: 5.6275
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 67/100:
+Batch: 0/199, Loss: 2.5636, NLL-Loss: 2.5623, KL-Loss: 0.0012, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.4735, NLL-Loss: 2.4734, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.5089, NLL-Loss: 2.5079, KL-Loss: 0.0010, KL-Weight: 1.0000
+Mean Loss: 2.5530
+VALID
+Epoch 67/100:
+Batch: 0/15, Loss: 5.1539, NLL-Loss: 5.1525, KL-Loss: 0.0014, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9339, NLL-Loss: 4.9326, KL-Loss: 0.0014, KL-Weight: 1.0000
+Mean Loss: 5.6200
+
+TRAIN
+Epoch 68/100:
+Batch: 0/199, Loss: 2.2999, NLL-Loss: 2.2985, KL-Loss: 0.0014, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.1762, NLL-Loss: 2.1762, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.3224, NLL-Loss: 2.3216, KL-Loss: 0.0008, KL-Weight: 1.0000
+Mean Loss: 2.2698
+VALID
+Epoch 68/100:
+Batch: 0/15, Loss: 5.1878, NLL-Loss: 5.1869, KL-Loss: 0.0009, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0010, NLL-Loss: 5.0001, KL-Loss: 0.0009, KL-Weight: 1.0000
+Mean Loss: 5.6693
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 69/100:
+Batch: 0/199, Loss: 2.6215, NLL-Loss: 2.6206, KL-Loss: 0.0009, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.3553, NLL-Loss: 2.3553, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.5911, NLL-Loss: 2.5904, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 2.5173
+VALID
+Epoch 69/100:
+Batch: 0/15, Loss: 5.2145, NLL-Loss: 5.2136, KL-Loss: 0.0008, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8624, NLL-Loss: 4.8616, KL-Loss: 0.0008, KL-Weight: 1.0000
+Mean Loss: 5.6054
+
+TRAIN
+Epoch 70/100:
+Batch: 0/199, Loss: 2.1440, NLL-Loss: 2.1431, KL-Loss: 0.0008, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2221, NLL-Loss: 2.2221, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.2941, NLL-Loss: 2.2934, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 2.2324
+VALID
+Epoch 70/100:
+Batch: 0/15, Loss: 5.2369, NLL-Loss: 5.2359, KL-Loss: 0.0010, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8182, NLL-Loss: 4.8172, KL-Loss: 0.0010, KL-Weight: 1.0000
+Mean Loss: 5.6230
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 71/100:
+Batch: 0/199, Loss: 2.4149, NLL-Loss: 2.4139, KL-Loss: 0.0010, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.4966, NLL-Loss: 2.4965, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.7508, NLL-Loss: 2.7500, KL-Loss: 0.0008, KL-Weight: 1.0000
+Mean Loss: 2.4913
+VALID
+Epoch 71/100:
+Batch: 0/15, Loss: 5.0551, NLL-Loss: 5.0539, KL-Loss: 0.0011, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9335, NLL-Loss: 4.9323, KL-Loss: 0.0011, KL-Weight: 1.0000
+Mean Loss: 5.5493
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 72/100:
+Batch: 0/199, Loss: 2.3711, NLL-Loss: 2.3700, KL-Loss: 0.0011, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.0567, NLL-Loss: 2.0567, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.7212, NLL-Loss: 2.7205, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 2.2085
+VALID
+Epoch 72/100:
+Batch: 0/15, Loss: 5.0778, NLL-Loss: 5.0769, KL-Loss: 0.0009, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0172, NLL-Loss: 5.0163, KL-Loss: 0.0009, KL-Weight: 1.0000
+Mean Loss: 5.5882
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 73/100:
+Batch: 0/199, Loss: 2.5163, NLL-Loss: 2.5154, KL-Loss: 0.0009, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.4977, NLL-Loss: 2.4977, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.4691, NLL-Loss: 2.4684, KL-Loss: 0.0008, KL-Weight: 1.0000
+Mean Loss: 2.4684
+VALID
+Epoch 73/100:
+Batch: 0/15, Loss: 5.4036, NLL-Loss: 5.4027, KL-Loss: 0.0009, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9881, NLL-Loss: 4.9871, KL-Loss: 0.0009, KL-Weight: 1.0000
+Mean Loss: 5.5913
+
+TRAIN
+Epoch 74/100:
+Batch: 0/199, Loss: 2.2198, NLL-Loss: 2.2188, KL-Loss: 0.0009, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2197, NLL-Loss: 2.2196, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.1443, NLL-Loss: 2.1436, KL-Loss: 0.0006, KL-Weight: 1.0000
+Mean Loss: 2.1808
+VALID
+Epoch 74/100:
+Batch: 0/15, Loss: 5.3830, NLL-Loss: 5.3823, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0233, NLL-Loss: 5.0226, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 5.6372
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 75/100:
+Batch: 0/199, Loss: 2.4419, NLL-Loss: 2.4412, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.4256, NLL-Loss: 2.4256, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.3407, NLL-Loss: 2.3398, KL-Loss: 0.0009, KL-Weight: 1.0000
+Mean Loss: 2.4565
+VALID
+Epoch 75/100:
+Batch: 0/15, Loss: 5.1221, NLL-Loss: 5.1214, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9342, NLL-Loss: 4.9335, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 5.5582
+
+TRAIN
+Epoch 76/100:
+Batch: 0/199, Loss: 1.9964, NLL-Loss: 1.9957, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.0176, NLL-Loss: 2.0176, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.0956, NLL-Loss: 2.0950, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 2.1667
+VALID
+Epoch 76/100:
+Batch: 0/15, Loss: 5.1790, NLL-Loss: 5.1782, KL-Loss: 0.0008, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9275, NLL-Loss: 4.9267, KL-Loss: 0.0008, KL-Weight: 1.0000
+Mean Loss: 5.6063
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 77/100:
+Batch: 0/199, Loss: 2.4742, NLL-Loss: 2.4734, KL-Loss: 0.0008, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.3307, NLL-Loss: 2.3307, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.4622, NLL-Loss: 2.4616, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 2.4342
+VALID
+Epoch 77/100:
+Batch: 0/15, Loss: 5.0399, NLL-Loss: 5.0390, KL-Loss: 0.0010, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.1032, NLL-Loss: 5.1022, KL-Loss: 0.0010, KL-Weight: 1.0000
+Mean Loss: 5.5237
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 78/100:
+Batch: 0/199, Loss: 2.1382, NLL-Loss: 2.1372, KL-Loss: 0.0010, KL-Weight: 1.0000
+Batch: 100/199, Loss: 1.9880, NLL-Loss: 1.9880, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.2319, NLL-Loss: 2.2314, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 2.1453
+VALID
+Epoch 78/100:
+Batch: 0/15, Loss: 5.0971, NLL-Loss: 5.0964, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.1262, NLL-Loss: 5.1255, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 5.5850
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 79/100:
+Batch: 0/199, Loss: 2.3339, NLL-Loss: 2.3332, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2449, NLL-Loss: 2.2449, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.1944, NLL-Loss: 2.1936, KL-Loss: 0.0008, KL-Weight: 1.0000
+Mean Loss: 2.4123
+VALID
+Epoch 79/100:
+Batch: 0/15, Loss: 5.1878, NLL-Loss: 5.1870, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9499, NLL-Loss: 4.9492, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 5.5521
+
+TRAIN
+Epoch 80/100:
+Batch: 0/199, Loss: 2.2333, NLL-Loss: 2.2326, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.0074, NLL-Loss: 2.0074, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.1312, NLL-Loss: 2.1307, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 2.1230
+VALID
+Epoch 80/100:
+Batch: 0/15, Loss: 5.1565, NLL-Loss: 5.1559, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0620, NLL-Loss: 5.0614, KL-Loss: 0.0006, KL-Weight: 1.0000
+Mean Loss: 5.5941
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 81/100:
+Batch: 0/199, Loss: 2.3430, NLL-Loss: 2.3425, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.4112, NLL-Loss: 2.4112, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.6567, NLL-Loss: 2.6561, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 2.3859
+VALID
+Epoch 81/100:
+Batch: 0/15, Loss: 5.1055, NLL-Loss: 5.1047, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8154, NLL-Loss: 4.8147, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 5.5377
+
+TRAIN
+Epoch 82/100:
+Batch: 0/199, Loss: 2.0050, NLL-Loss: 2.0043, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.0717, NLL-Loss: 2.0717, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.1654, NLL-Loss: 2.1650, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 2.0937
+VALID
+Epoch 82/100:
+Batch: 0/15, Loss: 5.2335, NLL-Loss: 5.2329, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8211, NLL-Loss: 4.8204, KL-Loss: 0.0006, KL-Weight: 1.0000
+Mean Loss: 5.5830
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 83/100:
+Batch: 0/199, Loss: 2.2944, NLL-Loss: 2.2937, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.3456, NLL-Loss: 2.3456, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.4025, NLL-Loss: 2.4020, KL-Loss: 0.0006, KL-Weight: 1.0000
+Mean Loss: 2.3645
+VALID
+Epoch 83/100:
+Batch: 0/15, Loss: 5.2140, NLL-Loss: 5.2133, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9146, NLL-Loss: 4.9139, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 5.5356
+
+TRAIN
+Epoch 84/100:
+Batch: 0/199, Loss: 2.0234, NLL-Loss: 2.0227, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 100/199, Loss: 1.9489, NLL-Loss: 1.9489, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.0536, NLL-Loss: 2.0531, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 2.0737
+VALID
+Epoch 84/100:
+Batch: 0/15, Loss: 5.2838, NLL-Loss: 5.2832, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8992, NLL-Loss: 4.8986, KL-Loss: 0.0006, KL-Weight: 1.0000
+Mean Loss: 5.6002
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 85/100:
+Batch: 0/199, Loss: 2.3188, NLL-Loss: 2.3182, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2473, NLL-Loss: 2.2473, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.2625, NLL-Loss: 2.2621, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 2.3542
+VALID
+Epoch 85/100:
+Batch: 0/15, Loss: 5.1157, NLL-Loss: 5.1151, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.7707, NLL-Loss: 4.7700, KL-Loss: 0.0007, KL-Weight: 1.0000
+Mean Loss: 5.5126
+Best model saved at: checkpoints/model
+
+TRAIN
+Epoch 86/100:
+Batch: 0/199, Loss: 2.0991, NLL-Loss: 2.0984, KL-Loss: 0.0007, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.0758, NLL-Loss: 2.0758, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.1201, NLL-Loss: 2.1196, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 2.0630
+VALID
+Epoch 86/100:
+Batch: 0/15, Loss: 5.1431, NLL-Loss: 5.1425, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8630, NLL-Loss: 4.8625, KL-Loss: 0.0006, KL-Weight: 1.0000
+Mean Loss: 5.5574
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 87/100:
+Batch: 0/199, Loss: 2.4104, NLL-Loss: 2.4098, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.4104, NLL-Loss: 2.4104, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.5014, NLL-Loss: 2.5009, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 2.3290
+VALID
+Epoch 87/100:
+Batch: 0/15, Loss: 5.1159, NLL-Loss: 5.1153, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.8417, NLL-Loss: 4.8410, KL-Loss: 0.0006, KL-Weight: 1.0000
+Mean Loss: 5.5678
+
+TRAIN
+Epoch 88/100:
+Batch: 0/199, Loss: 1.9215, NLL-Loss: 1.9209, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 100/199, Loss: 1.8638, NLL-Loss: 1.8638, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.1258, NLL-Loss: 2.1255, KL-Loss: 0.0003, KL-Weight: 1.0000
+Mean Loss: 2.0354
+VALID
+Epoch 88/100:
+Batch: 0/15, Loss: 5.0781, NLL-Loss: 5.0775, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.7615, NLL-Loss: 4.7609, KL-Loss: 0.0006, KL-Weight: 1.0000
+Mean Loss: 5.6002
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 89/100:
+Batch: 0/199, Loss: 2.3396, NLL-Loss: 2.3390, KL-Loss: 0.0006, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2059, NLL-Loss: 2.2059, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.3109, NLL-Loss: 2.3104, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 2.3187
+VALID
+Epoch 89/100:
+Batch: 0/15, Loss: 5.1859, NLL-Loss: 5.1853, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9456, NLL-Loss: 4.9450, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 5.5943
+
+TRAIN
+Epoch 90/100:
+Batch: 0/199, Loss: 1.9580, NLL-Loss: 1.9574, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 100/199, Loss: 1.9337, NLL-Loss: 1.9337, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.1493, NLL-Loss: 2.1489, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 2.0229
+VALID
+Epoch 90/100:
+Batch: 0/15, Loss: 5.2282, NLL-Loss: 5.2277, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0225, NLL-Loss: 5.0220, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 5.6429
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 91/100:
+Batch: 0/199, Loss: 2.2923, NLL-Loss: 2.2918, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.0748, NLL-Loss: 2.0748, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.1710, NLL-Loss: 2.1707, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 2.2947
+VALID
+Epoch 91/100:
+Batch: 0/15, Loss: 5.0771, NLL-Loss: 5.0768, KL-Loss: 0.0004, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9491, NLL-Loss: 4.9488, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 5.5719
+
+TRAIN
+Epoch 92/100:
+Batch: 0/199, Loss: 1.9147, NLL-Loss: 1.9143, KL-Loss: 0.0004, KL-Weight: 1.0000
+Batch: 100/199, Loss: 1.9183, NLL-Loss: 1.9183, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.3260, NLL-Loss: 2.3256, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 2.0005
+VALID
+Epoch 92/100:
+Batch: 0/15, Loss: 5.1379, NLL-Loss: 5.1375, KL-Loss: 0.0004, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9842, NLL-Loss: 4.9839, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 5.6267
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 93/100:
+Batch: 0/199, Loss: 2.3529, NLL-Loss: 2.3526, KL-Loss: 0.0004, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2177, NLL-Loss: 2.2177, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.3885, NLL-Loss: 2.3880, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 2.2909
+VALID
+Epoch 93/100:
+Batch: 0/15, Loss: 5.2141, NLL-Loss: 5.2136, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.7470, NLL-Loss: 4.7466, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 5.5472
+
+TRAIN
+Epoch 94/100:
+Batch: 0/199, Loss: 1.9678, NLL-Loss: 1.9673, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 100/199, Loss: 1.8529, NLL-Loss: 1.8529, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.2022, NLL-Loss: 2.2019, KL-Loss: 0.0003, KL-Weight: 1.0000
+Mean Loss: 1.9910
+VALID
+Epoch 94/100:
+Batch: 0/15, Loss: 5.2671, NLL-Loss: 5.2667, KL-Loss: 0.0004, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.7529, NLL-Loss: 4.7525, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 5.6107
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 95/100:
+Batch: 0/199, Loss: 2.2780, NLL-Loss: 2.2776, KL-Loss: 0.0004, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2799, NLL-Loss: 2.2799, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.3612, NLL-Loss: 2.3608, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 2.2661
+VALID
+Epoch 95/100:
+Batch: 0/15, Loss: 5.1295, NLL-Loss: 5.1290, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 15/15, Loss: 4.9488, NLL-Loss: 4.9483, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 5.5803
+
+TRAIN
+Epoch 96/100:
+Batch: 0/199, Loss: 1.9430, NLL-Loss: 1.9425, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 100/199, Loss: 1.7326, NLL-Loss: 1.7326, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.1238, NLL-Loss: 2.0385, KL-Loss: 0.0853, KL-Weight: 1.0000
+Mean Loss: 1.9869
+VALID
+Epoch 96/100:
+Batch: 0/15, Loss: 5.2548, NLL-Loss: 5.1931, KL-Loss: 0.0617, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0503, NLL-Loss: 4.9886, KL-Loss: 0.0617, KL-Weight: 1.0000
+Mean Loss: 5.6996
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 97/100:
+Batch: 0/199, Loss: 2.3441, NLL-Loss: 2.2824, KL-Loss: 0.0617, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.2886, NLL-Loss: 2.2886, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.4204, NLL-Loss: 2.4201, KL-Loss: 0.0003, KL-Weight: 1.0000
+Mean Loss: 2.2675
+VALID
+Epoch 97/100:
+Batch: 0/15, Loss: 5.1558, NLL-Loss: 5.1555, KL-Loss: 0.0003, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.1192, NLL-Loss: 5.1189, KL-Loss: 0.0003, KL-Weight: 1.0000
+Mean Loss: 5.6088
+
+TRAIN
+Epoch 98/100:
+Batch: 0/199, Loss: 1.9076, NLL-Loss: 1.9073, KL-Loss: 0.0003, KL-Weight: 1.0000
+Batch: 100/199, Loss: 1.8864, NLL-Loss: 1.8864, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.0201, NLL-Loss: 2.0198, KL-Loss: 0.0003, KL-Weight: 1.0000
+Mean Loss: 1.9675
+VALID
+Epoch 98/100:
+Batch: 0/15, Loss: 5.2022, NLL-Loss: 5.2018, KL-Loss: 0.0004, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.1800, NLL-Loss: 5.1796, KL-Loss: 0.0004, KL-Weight: 1.0000
+Mean Loss: 5.6599
+
+Generate new data every 2 epoch
+TRAIN
+Epoch 99/100:
+Batch: 0/199, Loss: 2.1417, NLL-Loss: 2.1413, KL-Loss: 0.0004, KL-Weight: 1.0000
+Batch: 100/199, Loss: 2.1828, NLL-Loss: 2.1828, KL-Loss: 0.0000, KL-Weight: 1.0000
+Batch: 199/199, Loss: 2.3848, NLL-Loss: 2.3845, KL-Loss: 0.0002, KL-Weight: 1.0000
+Mean Loss: 2.2395
+VALID
+Epoch 99/100:
+Batch: 0/15, Loss: 5.2289, NLL-Loss: 5.2284, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0016, NLL-Loss: 5.0011, KL-Loss: 0.0005, KL-Weight: 1.0000
+Mean Loss: 5.5973
+
+TRAIN
+Epoch 100/100:
+Batch: 0/199, Loss: 1.9797, NLL-Loss: 1.9792, KL-Loss: 0.0005, KL-Weight: 1.0000
+Batch: 100/199, Loss: 1.8110, NLL-Loss: 1.8094, KL-Loss: 0.0017, KL-Weight: 1.0000
+Batch: 199/199, Loss: 1.9480, NLL-Loss: 1.9478, KL-Loss: 0.0002, KL-Weight: 1.0000
+Mean Loss: 1.9383
+VALID
+Epoch 100/100:
+Batch: 0/15, Loss: 5.2840, NLL-Loss: 5.2837, KL-Loss: 0.0003, KL-Weight: 1.0000
+Batch: 15/15, Loss: 5.0668, NLL-Loss: 5.0665, KL-Loss: 0.0003, KL-Weight: 1.0000
+Mean Loss: 5.6641
+
