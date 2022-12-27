@@ -3,9 +3,6 @@
 
 ## About The Project
 
-
-### Introduction
-
 My project is called **Text Infilling**. This is a model which helps to fill in the missing word of a sentence.
 
 ## Getting Started
