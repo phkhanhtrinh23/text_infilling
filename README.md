@@ -34,7 +34,7 @@ To get started, you should have prior knowledge on **Python** and **Pytorch** at
 2. Read and run `train.py` to train the **Seq2seq VAE** model. The data are generated at each epoch for better generalization.
 
 ## Results
-<img src="./images/output.png"/>
+<img src="./output.png"/>
 
 Description:
 - `Inp`: the input data.
