@@ -40,6 +40,7 @@ Description:
 - `Inp`: the input data.
 - `Pre`: the prediction from the model.
 - `Tar`: the target data (groundtruth).
+
 *Note: `<eos>` is just the end-of-sentence token.*
 
 
